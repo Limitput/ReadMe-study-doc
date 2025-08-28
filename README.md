@@ -36,7 +36,7 @@
 加粗对链接依然有效
 **[这是一个加粗链接](https://www.bilibili.com/video/BV1Y5411W7j4/?spm_id_from=333.337.search-card.all.click&vd_source=bb311f54a7671df0ea69db4afaf49631)**
 如果链接是个图片的话，在括号前面加上/!就是图片
-![这是一个链接](https://image.anosu.top/pixiv/direct)
+![这是一个链接](https://www.dmoe.cc/random.php)
 
 ## 6.列表方法
 
